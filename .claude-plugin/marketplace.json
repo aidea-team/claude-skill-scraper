@@ -7,6 +7,7 @@
     "version": "0.1.0",
     "description": "Reverse-engineer website APIs and generate reusable Python scrapers",
     "category": "development",
-    "tags": ["scraping", "api", "reverse-engineering", "network"]
+    "tags": ["scraping", "api", "reverse-engineering", "network"],
+    "skills": ["./skills/scrape"]
   }]
 }

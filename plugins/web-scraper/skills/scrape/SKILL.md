@@ -1,11 +1,15 @@
 ---
 name: scrape
-description: >
-  Reverse-engineers a website's API by capturing network traffic,
-  analyzing endpoints, and generating a complete Python scraper
-  with documentation. Use when the user wants to scrape data from
-  a website, extract API endpoints, or build a reusable data collector.
-allowed-tools: Bash, Read, Write, Edit, Glob, Grep, Agent
+description: "Reverse-engineers a website's API by capturing network traffic, analyzing endpoints, and generating a complete Python scraper with documentation. Use when the user wants to scrape data from a website, extract API endpoints, or build a reusable data collector."
+user-invocable: true
+allowed-tools:
+  - Bash
+  - Read
+  - Write
+  - Edit
+  - Glob
+  - Grep
+  - Agent
 ---
 
 # Web Scraper Generator
