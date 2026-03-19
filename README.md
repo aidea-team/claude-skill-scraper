@@ -1,8 +1,8 @@
-![/scrape skill in Claude Code](./thumbnail.png)
-
-# /scrape
+# Scraper Claude Skill
 
 **A Claude Code skill to reverse-engineer any website's API and generate a working Python scraper.**
+
+![/scrape skill in Claude Code](./thumbnail.png)
 
 Point Claude at a URL, tell it what data you need, and it will intercept network traffic, discover the hidden APIs, document them, and generate a self-contained Python scraper you can rerun anytime.
 
