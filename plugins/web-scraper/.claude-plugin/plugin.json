@@ -1,0 +1,6 @@
+{
+  "name": "scraper",
+  "version": "0.1.0",
+  "description": "Reverse-engineer website APIs and generate reusable Python scrapers",
+  "skills": ["skills/scrape"]
+}

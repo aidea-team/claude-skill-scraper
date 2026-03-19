@@ -1,0 +1,12 @@
+{
+  "name": "aidea-tools",
+  "owner": { "name": "Federico" },
+  "plugins": [{
+    "name": "scraper",
+    "source": "./plugins/web-scraper",
+    "version": "0.1.0",
+    "description": "Reverse-engineer website APIs and generate reusable Python scrapers",
+    "category": "development",
+    "tags": ["scraping", "api", "reverse-engineering", "network"]
+  }]
+}
