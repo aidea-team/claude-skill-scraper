@@ -17,14 +17,6 @@ Inside Claude Code:
 /plugin install scraper@aidea-tools
 ```
 
-Then:
-
-```
-/scrape https://example.com/products
-```
-
-That's it. No manual setup — dependencies install automatically on first run.
-
 ## Usage
 
 ```
