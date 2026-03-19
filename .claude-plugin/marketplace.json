@@ -4,7 +4,7 @@
   "plugins": [{
     "name": "scraper",
     "source": "./plugins/web-scraper",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Reverse-engineer website APIs and generate reusable Python scrapers",
     "category": "development",
     "tags": ["scraping", "api", "reverse-engineering", "network"],
